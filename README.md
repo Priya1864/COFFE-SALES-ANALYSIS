@@ -61,4 +61,9 @@ Expand coffee and drinking chocolate categories to drive sales
 
 Encourage upselling to Large size orders due to higher share
 
-Consider loyalty programs at Hell’s Kitchen to retain top customers
+Consider loyalty programs at Hell’s Kitchen to retain top customers.
+
+
+#  DASHBOARD
+<a href="https://github.com/Priya1864/COFFE-SALES-ANALYSIS/blob/main/COFFESALES.png">"DASHBOARD"</a>
+
